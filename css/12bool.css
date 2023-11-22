@@ -84,6 +84,15 @@ FRAMEWORK
 }
 
 
+.align-items-mid{
+    align-items: center;
+}
+
+.align-items-end{
+    align-items:end;
+}
+
+
 /* 
 
     OFFSET
